@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6da218c8-6bf7-4d15-8548-957c8deaf448}</ProjectGuid>
-    <RootNamespace>StudiesSimpleConsolePrograms</RootNamespace>
+    <ProjectGuid>{5d11a690-b98a-4987-9df0-0688ecb5bcb7}</ProjectGuid>
+    <RootNamespace>MinMaxArraycpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>GeometryCalculator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="geometryCalculator.cpp" />
+    <ClCompile Include="MinMaxArray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
