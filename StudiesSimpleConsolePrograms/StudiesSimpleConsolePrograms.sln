@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinMaxArray.cpp", "MinMaxAr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleshipGame", "BattleshipGame\BattleshipGame.vcxproj", "{19A6AA52-E99B-4D07-9D25-8F0E930095CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleArrayManager", "SimpleArrayManager\SimpleArrayManager.vcxproj", "{56134092-C7A2-4CE5-880A-8741F33694A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixEvenOddSum", "MatrixEvenOddSum\MatrixEvenOddSum.vcxproj", "{CEC549E4-521A-40E3-A97E-0032FCE41971}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{19A6AA52-E99B-4D07-9D25-8F0E930095CA}.Release|x64.Build.0 = Release|x64
 		{19A6AA52-E99B-4D07-9D25-8F0E930095CA}.Release|x86.ActiveCfg = Release|Win32
 		{19A6AA52-E99B-4D07-9D25-8F0E930095CA}.Release|x86.Build.0 = Release|Win32
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Debug|x64.ActiveCfg = Debug|x64
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Debug|x64.Build.0 = Debug|x64
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Debug|x86.Build.0 = Debug|Win32
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Release|x64.ActiveCfg = Release|x64
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Release|x64.Build.0 = Release|x64
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Release|x86.ActiveCfg = Release|Win32
+		{56134092-C7A2-4CE5-880A-8741F33694A0}.Release|x86.Build.0 = Release|Win32
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Debug|x64.ActiveCfg = Debug|x64
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Debug|x64.Build.0 = Debug|x64
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Debug|x86.Build.0 = Debug|Win32
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Release|x64.ActiveCfg = Release|x64
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Release|x64.Build.0 = Release|x64
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Release|x86.ActiveCfg = Release|Win32
+		{CEC549E4-521A-40E3-A97E-0032FCE41971}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
